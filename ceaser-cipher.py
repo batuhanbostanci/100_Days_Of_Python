@@ -20,9 +20,6 @@ def ceaser():
   else:
     decode(text, shift)
 
-from art import logo
-print(logo)
-
 while True:
   direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n")
   text = input("Type your message:\n").lower()
