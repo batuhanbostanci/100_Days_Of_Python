@@ -7,7 +7,7 @@
 * Day-81 to Day-100: Professional Level
 
 ## Notes:
- * I don't add first fifteenth day  because of the level, you can see my codes about those topics in my repository
+ * I skipped  add first fifteenth day  because of the level, you can see my codes about those topics in my repository
 ## The process includes topics below 
 * Python 3 - the latest version of Python
 
