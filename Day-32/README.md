@@ -1,0 +1,1 @@
+## Sending automatic e-mails with Google SMTP ports
